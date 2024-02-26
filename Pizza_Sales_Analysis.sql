@@ -1,5 +1,9 @@
+Create database pizza_db
+	
 use pizza_db
+	
 select * from pizza_sales
+	
 desc pizza_sales
 
 ---------------------------------------------------------
